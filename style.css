@@ -1,0 +1,16 @@
+.searchmatch {
+	font-weight: bold;
+}
+
+body {
+	background-color: #123;
+}
+
+.main {
+	display: flex;
+	flex-direction: column;
+	max-width: 600px;
+	margin: auto;
+	padding: 15px;
+	background-color: whitesmoke;
+}

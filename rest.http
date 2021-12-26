@@ -1,0 +1,9 @@
+https://fi.wikipedia.org/w/api.php?action=query&format=json&list=search&srsearch=perhe&srwhat=text
+
+### 
+
+https://www.mediawiki.org/w/api.php?action=query&format=json&list=search&srsearch=koira
+
+### 
+
+https://en.wikipedia.org/w/api.php?action=query&format=php&list=search&srsearch=cat 
